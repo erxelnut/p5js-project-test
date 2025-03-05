@@ -8,9 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- run p5js via nix-shell - learn about running js command via nixos' environment",
   "dependencies": {
     "canvas": "^3.1.0",
+    "express": "^4.21.2",
     "jsdom": "^26.0.0",
     "p5": "^1.11.3"
   }
