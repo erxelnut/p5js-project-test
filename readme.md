@@ -1,4 +1,5 @@
 simple js art
+
 # what I aim to do 
 - run p5js via nix-shell
 - learn about running js command via nixos' environmentn
