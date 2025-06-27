@@ -8,4 +8,4 @@ simple js art
 - just open index.html via browser
 - or run server.js via node
 
-will add more info later..
+will add more info later...
