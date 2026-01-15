@@ -1,11 +1,11 @@
-simple js art
+inspired by natureofcode.com, I built this repo to help me learn js.
 
-# what I aim to do 
-- run p5js via nix-shell
-- learn about running js command via nixos' environmentn
+# setup 
+- clone this repo
+- bun install (If you don't have bun)
+- bun add p5@latest
 
 # make it work by 
-- just open index.html via browser
-- or run server.js via node
-
-will add more info later...
+- A. just open index.html via browser
+- B. bun x http-server
+- C. bun run server.js
